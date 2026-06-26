@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A simple padlock to evoke "phone jail". -->
+    <path
+        android:fillColor="#7C5CFF"
+        android:pathData="M54,30c-7.18,0 -13,5.82 -13,13v6h-3c-2.21,0 -4,1.79 -4,4v22c0,2.21 1.79,4 4,4h32c2.21,0 4,-1.79 4,-4V53c0,-2.21 -1.79,-4 -4,-4h-3v-6C67,35.82 61.18,30 54,30zM47,49v-6c0,-3.87 3.13,-7 7,-7s7,3.13 7,7v6H47z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,60a4,4 0,0 0,-4 4c0,1.48 0.81,2.77 2,3.46V72h4v-4.54c1.19,-0.69 2,-1.98 2,-3.46A4,4 0,0 0,54 60z" />
+</vector>

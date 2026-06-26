@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneJail</string>
+    <string name="focus_channel_name">Focus session</string>
+    <string name="focus_channel_desc">Shows the running focus timer while your phone is in jail.</string>
+</resources>
